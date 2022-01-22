@@ -1,0 +1,14 @@
+D:\C#\QS\QST\bin\Debug\QST.exe.config
+D:\C#\QS\QST\bin\Debug\QST.exe
+D:\C#\QS\QST\bin\Debug\QST.pdb
+D:\C#\QS\QST\obj\Debug\QST.csprojAssemblyReference.cache
+D:\C#\QS\QST\obj\Debug\QST.Form1.resources
+D:\C#\QS\QST\obj\Debug\QST.Properties.Resources.resources
+D:\C#\QS\QST\obj\Debug\QST.csproj.GenerateResource.cache
+D:\C#\QS\QST\obj\Debug\QST.csproj.CoreCompileInputs.cache
+D:\C#\QS\QST\obj\Debug\QST.exe
+D:\C#\QS\QST\obj\Debug\QST.pdb
+D:\C#\QS\QST\bin\Debug\Emgu.CV.World.dll
+D:\C#\QS\QST\bin\Debug\KAutoHelper.dll
+D:\C#\QS\QST\bin\Debug\Emgu.CV.World.xml
+D:\C#\QS\QST\obj\Debug\QST.csproj.CopyComplete
